@@ -1,0 +1,14 @@
+div{
+  padding: 10px;
+  margin: 10px;
+  display: inline;
+}
+
+#Lab, #transformacion{
+  background-color: #F6B520;
+}
+
+#es{
+  color: white;
+  background-color: black;
+}
